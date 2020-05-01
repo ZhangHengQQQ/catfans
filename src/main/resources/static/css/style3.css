@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+body{font-size:12px; font-family:"宋体"; color:#515151;}
+body,h2,form,table{padding:0; margin:0;}
+#box{
+	width:660px;
+	height:600px;
+	border:1px solid #CCC;
+	padding:20px;
+	margin:50px auto 0;
+}
+.header{
+	font-size:22px;
+	color:#0b0b0b;
+	padding-bottom:30px;
+}
+.header span{
+	font-size:12px;
+	font-weight:normal;
+}
+td{
+	padding-bottom:26px;
+}
+td.left{
+	width:78px;
+	text-align:right;
+	padding-right:8px;
+}
+.red{
+	color:#F00;
+}
+.p1,.p2,.p3{
+	width:264px;
+	height:12px;
+	border:1px solid #CCC;
+	padding:3px 3px 3px 26px;
+	font-size:12px;
+	color:#949494;
+}
+.p1{
+	background:url(images/name.png) no-repeat 2px center;
+}
+.p2{
+	background:url(images/phone.png) no-repeat 2px center;
+}
+.p3{
+	width:122px;
+	height:12px;
+	padding:3px 3px 3px 26px;
+	font-size:12px;
+	background:url(images/email.png) no-repeat 2px center;
+}
+.course{
+	width:184px;
+}
+.message{
+	width:432px;
+	height:164px;
+	padding:3px 3px 3px 26px;
+}

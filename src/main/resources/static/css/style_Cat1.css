@@ -1,0 +1,17 @@
+body {font-size: 14px;line-height: 24px;margin: auto;padding: 0px;}
+
+ul,li{margin:0px;padding:0px;list-style-type:none;}
+
+img{border:0px;}
+
+h3,p{margin:0px;padding:0px;}
+
+h3{margin-top:50px;}
+
+#show{width:724px;height:364px;border:#ccc 1px solid;margin:10px;overflow: hidden;}
+
+li{float:left;margin-top:1px;margin-left:1px;height:180px;width:240px;overflow: hidden;}
+
+#show .alt{position: absolute;background:#000;display:none;text-align:center;}
+
+a,a:hover{color: #FFFFFF;text-decoration: none;}
